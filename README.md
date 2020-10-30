@@ -1,6 +1,6 @@
-# community.general
+# Community General Collection
 
-This repo contains the `community.general` Ansible Collection. The collection includes many modules and plugins supported by Ansible community which are not part of more specialized community collections.
+This repo serves as a method of hosting the tar file of the `community.general` Ansible Collection. The collection includes many modules and plugins supported by Ansible community which are not part of more specialized community collections. It also contains fixes not yet merged into the main redition of the repo.
 
 You can find [documentation for this collection on the Ansible docs site](https://docs.ansible.com/ansible/latest/collections/community/general/).
 
